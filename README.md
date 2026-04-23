@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Key Engineering Achievements
+##  Key Engineering Achievements
 
 This project demonstrates proficiency in high-scale database architecture and professional software engineering patterns:
 
@@ -30,7 +30,7 @@ This project demonstrates proficiency in high-scale database architecture and pr
 
 ---
 
-## 📊 Data Acquisition & Ingestion
+##  Data Acquisition & Ingestion
 
 The platform utilizes a hybrid data approach to ensure both realism and scalability:
 1.  **Sourcing:** Raw match data is modeled based on historical **Kaggle PSL datasets**.
